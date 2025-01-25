@@ -1,4 +1,4 @@
-# Backwoods App ![Build Status](https://travis-ci.com/Lambda-School-Labs/LabsPT1_Backwoods.svg?branch=master)
+ # Backwoods App ![Build Status](https://travis-ci.com/Lambda-School-Labs/LabsPT1_Backwoods.svg?branch=master)
 
 Backwoods is an app that helps adventurers track their trips and travel safely.
 
